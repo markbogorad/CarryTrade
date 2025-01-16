@@ -55,7 +55,7 @@ Both volatility measures regulate trading activity to minimize losses during hig
 - **Sharpe Ratios**: Improved annualized Sharpe ratios for both Pairwise and HML portfolios under the indicator strategy.
 
 ### **Key Visualizations**
-![Cumulative Returns](path/to/cumulative_returns_graph.png)
+![Cumulative Returns](Cumulative_Returns.png)
 *Figure 1: Comparison of cumulative returns with and without the volatility indicator.*
 
 ---
@@ -63,7 +63,7 @@ Both volatility measures regulate trading activity to minimize losses during hig
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/markbogorad/CarryTradeStrategy.git
+   git clone https://github.com/markbogorad/CarryTrade.git
    cd CarryTradeStrategy
    ```
 2. Install dependencies:
