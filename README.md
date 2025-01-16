@@ -107,4 +107,3 @@ Portfolio Reconstruction: Portfolios were reconstructed under the indicator, sho
 ## Results
 
 The volatility-based indicator significantly enhances the carry trade strategy by improving risk-adjusted returns and stabilizing portfolio growth.
->>>>>>> c61c7a736da19d7cd52a5e37effbc7bee3059802
